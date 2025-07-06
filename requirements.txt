@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+beautifulsoup4
+requests
+spacy
+scikit-learn
+python-docx
+PyMuPDF
+pandas
+networkx
+langchain-core
+chromadb
+sentence-transformers
+
